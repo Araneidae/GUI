@@ -68,6 +68,9 @@ numTraces 1
 yPv {
   0 "EPICS\\$(HOSTNAME):$(SIG)"
 }
+ySigned {
+  0 1
+}
 plotColor {
   0 index 14
 }
