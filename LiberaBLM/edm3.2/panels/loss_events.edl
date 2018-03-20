@@ -3,8 +3,8 @@ beginScreenProperties
 major 4
 minor 0
 release 1
-x 531
-y 392
+x 136
+y 775
 w 440
 h 210
 font "helvetica-medium-r-18.0"
@@ -81,7 +81,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 365
 y 10
@@ -106,7 +106,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 75
 y 95
@@ -120,6 +120,7 @@ bgColor index 0
 limitsFromDb
 nullColor index 0
 smartRefresh
+fastUpdate
 useHexPrefix
 newPos
 objType "controls"
@@ -130,7 +131,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 75
 y 120
@@ -154,7 +155,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 75
 y 170
@@ -178,7 +179,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 75
 y 145
@@ -202,7 +203,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 180
 y 95
@@ -216,6 +217,7 @@ bgColor index 0
 limitsFromDb
 nullColor index 0
 smartRefresh
+fastUpdate
 useHexPrefix
 newPos
 objType "controls"
@@ -226,7 +228,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 180
 y 120
@@ -250,7 +252,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 180
 y 170
@@ -274,7 +276,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 180
 y 145
@@ -338,7 +340,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 325
 y 170
@@ -362,7 +364,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 325
 y 95
@@ -376,6 +378,7 @@ bgColor index 0
 limitsFromDb
 nullColor index 0
 smartRefresh
+fastUpdate
 useHexPrefix
 newPos
 objType "controls"
@@ -386,7 +389,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 325
 y 120
@@ -410,7 +413,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 325
 y 145
