@@ -6,4 +6,4 @@ BLM_OPI="$HERE"/LiberaBLM/edm3.2
 export EDMDATAFILES="$BLM_OPI"/panels
 export EDMCOLORFILE="$BLM_OPI"/prefs/colors.list
 
-edm -x -eolc dls_launcher.edl &
+edm -x -eolc dls_launcher.edl
