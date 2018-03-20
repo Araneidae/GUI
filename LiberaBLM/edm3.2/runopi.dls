@@ -1,0 +1,8 @@
+#!/bin/bash
+
+HERE="$(dirname "$0")"
+
+export EDMDATAFILES="$HERE"/panels
+export EDMCOLORFILE="$HERE"/prefs/colors.list
+
+edm -x -eolc dls_launcher.edl &
