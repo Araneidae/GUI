@@ -112,14 +112,14 @@ bgColor index 3
 topShadowColor index 1
 botShadowColor index 11
 font "helvetica-bold-r-12.0"
-buttonLabel "ME-DI-BLM-01"
+buttonLabel "SR02C-DI-BLM-01"
 numPvs 4
 numDsps 1
 displayFileName {
   0 "main.edl"
 }
 symbols {
-  0 "HOSTNAME=ME-DI-BLM-01"
+  0 "HOSTNAME=SR02C-DI-BLM-01"
 }
 endObjectProperties
 
@@ -138,14 +138,14 @@ bgColor index 3
 topShadowColor index 1
 botShadowColor index 11
 font "helvetica-bold-r-12.0"
-buttonLabel "ME-DI-BLM-02"
+buttonLabel "SR04C-DI-BLM-01"
 numPvs 4
 numDsps 1
 displayFileName {
   0 "main.edl"
 }
 symbols {
-  0 "HOSTNAME=ME-DI-BLM-02"
+  0 "HOSTNAME=SR04C-DI-BLM-01"
 }
 endObjectProperties
 
@@ -164,14 +164,14 @@ bgColor index 3
 topShadowColor index 1
 botShadowColor index 11
 font "helvetica-bold-r-12.0"
-buttonLabel "ME-DI-BLM-03"
+buttonLabel "SR11C-DI-BLM-01"
 numPvs 4
 numDsps 1
 displayFileName {
   0 "main.edl"
 }
 symbols {
-  0 "HOSTNAME=ME-DI-BLM-03"
+  0 "HOSTNAME=SR11C-DI-BLM-01"
 }
 endObjectProperties
 
@@ -190,14 +190,14 @@ bgColor index 3
 topShadowColor index 1
 botShadowColor index 11
 font "helvetica-bold-r-12.0"
-buttonLabel "ME-DI-BLM-04"
+buttonLabel "SR23C-DI-BLM-01"
 numPvs 4
 numDsps 1
 displayFileName {
   0 "main.edl"
 }
 symbols {
-  0 "HOSTNAME=ME-DI-BLM-04"
+  0 "HOSTNAME=SR23C-DI-BLM-01"
 }
 endObjectProperties
 
