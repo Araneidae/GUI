@@ -3,8 +3,8 @@ beginScreenProperties
 major 4
 minor 0
 release 1
-x 330
-y 455
+x 135
+y 897
 w 830
 h 500
 font "helvetica-medium-r-18.0"
@@ -320,7 +320,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 170
 y 65
@@ -346,7 +346,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 360
 y 65
@@ -702,7 +702,7 @@ displayFileName {
   0 "stream.edl"
 }
 symbols {
-  0 "SIG=signals:sa, NAME=SA"
+  0 "SIG=signals:sa.$(BLD), NAME=SA"
 }
 endObjectProperties
 
@@ -781,7 +781,7 @@ menuLabel {
   2 "Coincidence stream"
 }
 symbols {
-  0 "SIG=signals:counter, NAME=Loss events"
+  0 "SIG=signals:counter.$(BLD)1, NAME=Loss events"
   1 "SIG=signals:counter.$(BLD)2, NAME=Loss events"
   2 "SIG=signals:coincidence_counter.$(BLD), NAME=Coincidence events"
 }
@@ -1472,7 +1472,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 20
 y 280
@@ -1497,7 +1497,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 60
 y 355
@@ -1522,7 +1522,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 50
 y 395
@@ -1589,7 +1589,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 85
 y 65
@@ -1615,7 +1615,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 450
 y 65
@@ -1702,7 +1702,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 85
 y 95
@@ -1726,7 +1726,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 170
 y 95
@@ -1751,7 +1751,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 340
 y 95
@@ -1776,7 +1776,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 450
 y 95
@@ -1800,7 +1800,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 665
 y 445
@@ -1825,7 +1825,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 555
 y 265
@@ -1850,7 +1850,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 665
 y 380
@@ -1874,7 +1874,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 665
 y 320
@@ -1898,7 +1898,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 580
 y 185
@@ -1923,7 +1923,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 580
 y 215
@@ -1948,7 +1948,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 555
 y 115
@@ -2010,7 +2010,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 555
 y 145
@@ -2063,7 +2063,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 20
 y 415
@@ -2165,7 +2165,7 @@ endObjectProperties
 object activeXTextDspClass
 beginObjectProperties
 major 4
-minor 7
+minor 6
 release 0
 x 255
 y 95
